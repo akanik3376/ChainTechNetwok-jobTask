@@ -1,9 +1,10 @@
-import React from 'react';
+// import React from 'react';
+import Navbar from '../src/Shared/Navbar';
 
 const Header = () => {
     return (
         <div>
-            header section
+            <Navbar />
         </div>
     );
 };
